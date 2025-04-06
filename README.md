@@ -1,11 +1,9 @@
-## Olá 👋
-<!--
 <h1 align="center">Wesley Jean</h1>
-<p align="center">Desenvolvedor de Software | Apaixonado por resolver problemas com código | Explorador de novas tecnologias</p>
+
 
 ---
 
-### 
+### 👋 Olá 
 
 Sou um desenvolvedor de software em formação, com foco em desenvolvimento web e backend. Tenho interesse profundo por sistemas escaláveis, automação, inteligência artificial e engenharia de software com boas práticas desde o início da jornada.
 
@@ -46,8 +44,8 @@ Busco constantemente novos desafios e acredito que a tecnologia é uma ferrament
 
 ### 🌍 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/wesley-jean-b8586321a)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](wesleygazzola123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-jean-b9586321a)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
 
