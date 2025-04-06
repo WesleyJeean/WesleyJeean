@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Olá 👋
 <!--
 <h1 align="center">Wesley Jean</h1>
 <p align="center">Desenvolvedor de Software | Apaixonado por resolver problemas com código | Explorador de novas tecnologias</p>
