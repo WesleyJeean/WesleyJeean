@@ -1,16 +1,14 @@
-### 👋 Olá 
+### 👋 Hello 
 
-Sou um desenvolvedor de software em formação, com foco em desenvolvimento web e backend. Tenho interesse profundo por sistemas escaláveis, automação, inteligência artificial e engenharia de software com boas práticas desde o início da jornada.
-
-Atualmente, estou me especializando em ferramentas modernas como **JavaScript, React, FastAPI e Python**, enquanto aprimoro minha base em **algoritmos, estrutura de dados e engenharia de software**.
-
-Busco constantemente novos desafios e acredito que a tecnologia é uma ferramenta poderosa para criar soluções que impactem positivamente o mundo.
+I am a Systems Analyst and Developer in training, with a focus on web development, backend and system integration. I am very interested in scalable systems, process automation, artificial intelligence and the application of good software engineering practices from the initial stages of development.
+I am currently specializing in modern tools such as JavaScript, React, FastAPI and Python, while also deepening my knowledge in algorithms, data structures, databases and system architecture.
+I am driven by challenges and believe that technology, when well applied, has the power to transform realities and optimize processes, creating solutions that generate real impact.
 
 ---
 
-### 🔧 Tecnologias & Ferramentas
+### 🔧 Technologies & Tools
 
-#### Linguagens e Frameworks
+#### Languages ​​and Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -18,7 +16,7 @@ Busco constantemente novos desafios e acredito que a tecnologia é uma ferrament
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-#### Ferramentas e Outros
+#### Tools and Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
@@ -37,7 +35,7 @@ Busco constantemente novos desafios e acredito que a tecnologia é uma ferrament
 
 ---
 
-### 🌍 Onde me encontrar
+### 🌍 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-jean-b9586321a)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](Wesleygazzola123@gmail.com)
@@ -46,10 +44,10 @@ Busco constantemente novos desafios e acredito que a tecnologia é uma ferrament
 
 ### 🧠 Visão a Longo Prazo
 
-Meu objetivo é crescer como engenheiro de software e contribuir em projetos de alto impacto, que combinem inovação tecnológica e propósito. Tenho grande admiração por empresas como **Google, Riot Games e outras que valorizam excelência técnica, criatividade e impacto global**.
+My goal is to evolve as a Systems Analyst and Developer, contributing to projects that combine technological innovation, intelligent automation and real purpose. I have great admiration for companies that value technical excellence, creativity and large-scale impact, such as Google, Riot Games and many others that transform the world with technology.
 
-Atualmente, estou em constante desenvolvimento, participando de projetos, hackathons e estudando tecnologias modernas para me tornar um profissional cada vez mais completo e preparado para o mercado.
+I am currently constantly evolving, participating in practical projects, programming challenges and hackathons, in addition to keeping myself updated with modern technologies and good development practices, seeking to become a well-rounded professional prepared to work in high-performance teams.
 
 ---
 
-> "A melhor maneira de prever o futuro é criá-lo." – Alan Kay
+> "The best way to predict the future is to create it." – Alan Kay
