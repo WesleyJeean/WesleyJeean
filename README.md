@@ -42,7 +42,7 @@ I am driven by challenges and believe that technology, when well applied, has th
 
 ---
 
-### 🧠 Visão a Longo Prazo
+### 🧠 Long-Term Vision
 
 My goal is to evolve as a Systems Analyst and Developer, contributing to projects that combine technological innovation, intelligent automation and real purpose. I have great admiration for companies that value technical excellence, creativity and large-scale impact, such as Google, Riot Games and many others that transform the world with technology.
 
